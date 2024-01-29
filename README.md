@@ -15,5 +15,4 @@ npm run start
 ```
 
 ## Todo
-- [ ] Refactor code to be more readable
 - [ ] Move language to golang
