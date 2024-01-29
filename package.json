@@ -1,0 +1,22 @@
+{
+  "name": "simbelmawa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --experimental-specifier-resolution=node --trace-warnings index.js"
+  },
+  "author": "Nizar",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "colors": "^1.4.0",
+    "docx": "^8.2.4",
+    "exceljs": "^4.4.0",
+    "fs-extra": "^11.2.0",
+    "id": "link:moment/locale/id",
+    "image-size": "^1.1.1",
+    "moment": "^2.30.1"
+  }
+}

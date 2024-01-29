@@ -1,0 +1,10 @@
+*-logbook-*.json
+*-login.json
+*-user.json
+*-usulan.json
+*-Logbook-*.xlsx
+*-Logbook-*.docx
+Insomnia_*.json
+
+/*-kegiatan
+/node_modules
